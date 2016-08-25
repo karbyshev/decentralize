@@ -2,6 +2,8 @@
  *** Formalized proofs to Section 4 of the paper                            ***
  *** "Decentralizing SDN Policies" by Padon et al., POPL 2015               ***
  ***                                                                        ***
+ *** Compiles with Coq 8.5pl2                                               ***
+ ***                                                                        ***
  *** Aleksandr Karbyshev, Oct 2014                                          ***
  ******************************************************************************)
 
